@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://runtimevariable.com/posts/2025-04-29-maybe-its-time/</loc>
+    <loc>//192.168.20.161:1313/posts/2025-04-29-maybe-its-time/</loc>
     <lastmod>2025-04-29T09:10:58+10:00</lastmod>
   </url><url>
-    <loc>https://runtimevariable.com/posts/</loc>
+    <loc>//192.168.20.161:1313/posts/</loc>
     <lastmod>2025-04-29T09:10:58+10:00</lastmod>
   </url><url>
-    <loc>https://runtimevariable.com/</loc>
+    <loc>//192.168.20.161:1313/</loc>
     <lastmod>2025-04-29T09:10:58+10:00</lastmod>
   </url><url>
-    <loc>https://runtimevariable.com/categories/</loc>
+    <loc>//192.168.20.161:1313/categories/</loc>
   </url><url>
-    <loc>https://runtimevariable.com/tags/</loc>
+    <loc>//192.168.20.161:1313/tags/</loc>
   </url>
 </urlset>

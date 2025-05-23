@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on rtv</title>
-    <link>https://runtimevariable.com/tags/</link>
+    <link>//192.168.20.161:1313/tags/</link>
     <description>Recent content in Tags on rtv</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://runtimevariable.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//192.168.20.161:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
