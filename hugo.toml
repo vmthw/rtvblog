@@ -11,3 +11,7 @@ theme = "dario"
     Title = "runtimevariable"
     Content = "sometimes I learn things"
     Description = "runtimevariable web log"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
