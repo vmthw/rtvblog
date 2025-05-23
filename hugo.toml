@@ -1,4 +1,4 @@
-baseURL = 'https://runtimevariable.com/'
+baseURL = 'https://www.runtimevariable.com/'
 languageCode = 'en-us'
 title = 'rtv'
 theme = "dario"
