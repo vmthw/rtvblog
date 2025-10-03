@@ -1,0 +1,17 @@
+baseURL = 'https://www.runtimevariable.com/'
+languageCode = 'en-us'
+title = 'rtv'
+theme = "dario"
+
+[params]
+  author = "rtv"
+  description = "runtimevariable blog - sometimes I learn things"
+
+  [params.homeInfoParams]
+    Title = "runtimevariable"
+    Content = "sometimes I learn things"
+    Description = "runtimevariable web log"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
